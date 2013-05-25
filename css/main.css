@@ -1,0 +1,45 @@
+body {
+	font-family: Helvetica Neue, HelveticaNeue, Helvetica, Arial, sans-serif, Consolas, monospace;
+	font-size: 18px;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 110px;
+	font-family: Arial;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	font-style: italic;
+	margin: 0;
+	padding: 0;
+}
+
+h3 {
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+header {
+	text-align: center;
+}
+
+footer {
+	position: fixed;
+	bottom: 2px;
+	margin: 0;
+	padding: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 40px;
+	font-family: Arial;
+	text-shadow: 1px 1px 1px yellow;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+}
